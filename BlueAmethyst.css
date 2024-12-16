@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #1434a4;
+  --secondary-color: #aca9bb;
+  --accent-color: #950012;
+  --gradient-background-color: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(20,52,164,1) 0%, rgba(50,19,121,1) 100%);
+  --gradient-hover-background-color: radial-gradient(circle, rgba(20,52,164,1) 0%, rgba(50,19,121,0.95) 0%, rgba(0,0,0,0.18) 100%);
+  --backdrop-color: rgba(255, 255, 255, 0.15);
+}
